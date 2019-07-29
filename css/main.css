@@ -1,0 +1,46 @@
+html, body {
+  background-color: black;
+}
+
+span {
+  font-family: monospace;
+}
+
+.container2 {
+  display: flex;
+}
+.container2 div {
+  width: 50vw;
+}
+
+.container3 {
+  display: flex;
+}
+
+.container3 div {
+  width: 25vw;
+}
+
+.encrypt {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  font-size: 2em;
+}
+
+.decrypt {
+  background-color: white;
+  color: black;
+  font-size: 2em;
+}
+
+.decrypted {
+  background-color: black;
+  color: white;
+  font-size: 2em;
+}
+
+.highlight {
+  color: red;
+  font-size: 2em;
+}
