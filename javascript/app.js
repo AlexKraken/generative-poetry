@@ -1,10 +1,10 @@
-// https://github.com/sindresorhus/screenfull.js/
+/* https://github.com/sindresorhus/screenfull.js/
 $('body').on('click', event => {
   if (screenfull.enabled) {
     screenfull.toggle();
   }
 });
-// ---------------
+*/
 
 
 var newWordBook = wordBook(poem)
